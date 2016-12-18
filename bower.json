@@ -10,6 +10,6 @@
   ],
   "dependencies": {
     "purescript-console": "^2.0.0",
-    "purescript-halogen": "^0.12.0"
+    "purescript-halogen": "git://github.com/slamdata/purescript-halogen#168a5f71c0d57dcfc2be50400ffb2f49f1c3d811"
   }
 }
